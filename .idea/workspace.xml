@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20fed251-f76f-48e1-ac29-71f1322edacb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/customers.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/dowjones.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/flare.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/grays-anatomy-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/grays-anatomy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/herbs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/hubble.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/icd10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/usda.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/wordlist.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/page.home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.thumb-menu/menu.thumb.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.thumb-menu/menu.thumb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.thumb-menu/menu.thumb.less" afterPath="" />
-    </list>
+    <list default="true" id="20fed251-f76f-48e1-ac29-71f1322edacb" name="Default" comment="" />
     <ignored path="dataset-manager.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,10 +47,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.dictionary.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="page.dictionary.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/libraries/page.dictionary.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="41" selection-start="597" selection-end="597" vertical-scroll-proportion="0.5994832">
+            <state line="8" column="3" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="smart.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/smart.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="226" selection-end="226" vertical-scroll-proportion="0.22739018">
               <folding />
             </state>
           </provider>
@@ -271,12 +265,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="883" y="172" width="1102" height="919" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22958258" sideWeight="0.9988081" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22958258" sideWeight="0.9988081" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -358,13 +352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/smart.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="3" selection-start="223" selection-end="223" vertical-scroll-proportion="0.18090452">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/stylesheets/app.form.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="0" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
@@ -430,7 +417,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/libraries/page.dictionary.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="41" selection-start="597" selection-end="597" vertical-scroll-proportion="0.5994832">
+        <state line="8" column="3" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smart.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="226" selection-end="226" vertical-scroll-proportion="0.22739018">
           <folding />
         </state>
       </provider>
