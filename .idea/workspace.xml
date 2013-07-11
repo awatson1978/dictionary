@@ -2,92 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20fed251-f76f-48e1-ac29-71f1322edacb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionary.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.meteor/packages" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.scrap/images/customers.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.scrap/images/dowjones.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.scrap/images/flare.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.scrap/images/grays-anatomy-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.scrap/images/grays-anatomy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.scrap/images/herbs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.scrap/images/hubble.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.scrap/images/icd10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.scrap/images/usda.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.scrap/images/wordlist.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dictionary-large.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dictionary.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sass_stdlib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.meteor/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.scrap/page.home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.thumb-menu/menu.thumb.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.thumb-menu/menu.thumb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.thumb-menu/menu.thumb.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/app.layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/helpers/bootstrap-collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/helpers/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/page.dictionary.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/app.form.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/app.layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/app.scrollbars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/accordion.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/bootstrap3/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/page.dictionary.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/syntax.colors.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/syntax.custom.bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/syntax.custom.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/syntax.forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/subscriptions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/templates/app.layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/templates/page.dictionary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/meteor.methods.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smart.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smart.lock" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/customers.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/dowjones.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/flare.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/grays-anatomy-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/grays-anatomy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/herbs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/hubble.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/icd10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/usda.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/images/wordlist.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.scrap/page.home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.thumb-menu/menu.thumb.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.thumb-menu/menu.thumb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.thumb-menu/menu.thumb.less" afterPath="" />
     </list>
     <ignored path="dataset-manager.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -137,7 +65,7 @@
       <file leaf-file-name="page.dictionary.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/libraries/page.dictionary.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="41" selection-start="676" selection-end="676" vertical-scroll-proportion="0.6408269">
+            <state line="29" column="41" selection-start="597" selection-end="597" vertical-scroll-proportion="0.5994832">
               <folding />
             </state>
           </provider>
@@ -194,8 +122,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="856" />
-    <option name="y" value="401" />
+    <option name="x" value="883" />
+    <option name="y" value="172" />
     <option name="width" value="1102" />
     <option name="height" value="919" />
   </component>
@@ -275,102 +203,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".thumb-menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".scrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -438,7 +270,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="856" y="401" width="1102" height="919" extended-state="0" />
+    <frame x="883" y="172" width="1102" height="919" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -526,29 +358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.thumb-menu/menu.thumb.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="676" selection-end="676" vertical-scroll-proportion="0.2075227">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.thumb-menu/menu.thumb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="41" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.thumb-menu/menu.thumb.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/smart.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="3" selection-start="223" selection-end="223" vertical-scroll-proportion="0.18090452">
@@ -621,7 +430,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/libraries/page.dictionary.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="41" selection-start="676" selection-end="676" vertical-scroll-proportion="0.6408269">
+        <state line="29" column="41" selection-start="597" selection-end="597" vertical-scroll-proportion="0.5994832">
           <folding />
         </state>
       </provider>
