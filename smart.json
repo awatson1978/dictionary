@@ -1,0 +1,11 @@
+{
+  "packages": {
+    "router": {},
+    "device-detection": {},
+    "moment": {},
+      "dataset-dictionary": {
+          "git": "https://github.com/awatson1978/dataset-dictionary.git",
+          "tag": "v0.1.4"
+      }
+  }
+}
