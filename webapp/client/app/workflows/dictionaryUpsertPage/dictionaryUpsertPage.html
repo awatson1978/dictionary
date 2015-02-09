@@ -1,0 +1,44 @@
+
+<template name="dictionaryUpsertPage">
+  <div id="dictionaryUpsertPage" class="page">
+    <div class="container">
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">{{_id}}</h3>
+        </div>
+        <div class="panel-body">
+          <div class="whitepaper dictionary-form">
+            <div class="col col-lg-3">
+              <div class="form-group">
+                <label class="smallgray" for="dictionaryWordInput">Word</label>
+                <input id="dictionaryWordInput" class="form-control" placeholder="spelling..." value="{{Word}}" {{word_enabled}} />
+              </div>
+            </div>
+            <div class="col col-lg-9">
+              <div class="form-group">
+                <label for="dictionaryDefinitionInput">Definition</label>
+                <textarea id="dictionaryDefinitionInput" placeholder="spelling..." class="form-control" rows="3" {{definition_enabled}}> {{ Definition }} </textarea>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="panel-footer">
+          <!-- <button id="updateRecord" class="btn btn-warning">Update</button>
+          <button id="deleteRecord" class="btn btn-danger">Delete</button> -->
+          {{#if isNewWord}}
+            <button id="newDictionaryWordButton" type="button" class="btn btn-info" width="100%">Create New Word!</button>
+          {{/if}}
+          {{#if isEditingWord}}
+            <button id="updateWordButton" type="button" class="btn btn-warning">Update</button>
+          {{/if}}
+          {{#if isViewingWord}}
+            <button id="cancelDeleteDictionaryWordButton" type="button" class="btn btn-default">Back to Dictionary</button>
+            <button id="editWordButton" type="button" class="btn btn-warning">Edit</button>
+            <button id="deleteDictionaryWordButton" type="button" class="btn btn-danger">Delete</button>
+          {{/if}}
+        </div>
+      </div>
+    </div>
+  </div>
+
+</template>

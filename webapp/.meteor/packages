@@ -3,11 +3,16 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
-preserve-inputs
-less
-router
+standard-app-packages
 jquery
-device-detection
-moment
+less
+natestrauser:font-awesome
+nemo64:bootstrap
+iron:router
+mystor:device-detection
+momentjs:moment
 random
-dataset-dictionary
+awatson1978:dataset-dictionary
+
+clinical:ui-vocabulary
+clinical:nightwatch

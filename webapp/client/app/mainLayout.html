@@ -1,0 +1,35 @@
+<template name="mainLayout">
+
+  {{> navbarHeader }}
+  <main id="mainPanel" class="fullheight padded">
+    {{> yield }}
+    {{> aboutPanel }}
+  </main>
+  {{> navbarFooter }}
+
+  <div class="hidden resize-trigger">resized: {{resized}}</div>
+</template>
+
+
+
+<template name="aboutPanel">
+  <div class="container">
+      <div class="about-panel panel panel-success">
+        <div class="panel-heading">
+          About
+        </div>
+        <div class="panel-body">
+          <div class="col col-lg-2 with-btn-spacer">
+            <div class="get-the-code-button fullwidth btn btn-success">Get the Code</div>
+          </div>
+          <div class="col col-lg-2 with-btn-spacer">
+            <div class="about-the-author-button fullwidth btn btn-default">About the Author</div>
+          </div>
+          <div class="col col-lg-8">
+            <p>This dictionary is based on a copy of the Websters Unabridged English Dictionary, circa 1920. Feel free to add or edit entries. As about open a dictionary as you can get. :) </p>
+          </div>
+        </div>
+      </div>
+
+  </div>
+</template>

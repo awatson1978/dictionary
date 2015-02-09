@@ -1,0 +1,42 @@
+<template name="dictionaryListPage">
+  <div id="dictionaryListPage" class="page">
+    <div class="container doesnt-overlap-header">
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <input id="dictionarySearchInput" type="text" class="form-control" placeholder="Filter..." value="" />
+        </div>
+
+        {{#if editingWord }}
+          {{> dictionaryUpsertPage }}
+        {{else}}
+        <ul class="list-group">
+          {{#each dictionaryList}}
+            {{> dictionaryListItem }}
+          {{/each}}
+        </ul>
+        {{/if}}
+      </div>
+
+      {{#if editingWord }}
+      <div class="padded panel control-buttons">
+        <div class="col col-lg-4 with-btn-spacer">
+          <div class="cancel-btn fullwidth btn btn-info">Back to Dictionary</div>
+        </div>
+        <div class="col col-lg-4 with-btn-spacer">
+          <div class="new-button fullwidth btn btn-default">New Entry</div>
+        </div>
+        <div class="col col-lg-4 with-btn-spacer">
+          <div class="delete-button fullwidth btn btn-default">Delete</div>
+        </div>
+      </div>
+      {{/if}}
+    </div>
+  </div>
+</template>
+
+<template name="dictionaryListItem">
+  <li class="list-group-item">
+    <div class="bold word">{{ Word }}</div>
+    <div class="definition"> {{ Definition }}</div>
+  </li>
+</template>
