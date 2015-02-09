@@ -8,8 +8,8 @@ module.exports = {
     // make sure main elements are present
     .verify.elementPresent("#navbarHeader")
     .verify.elementPresent("#navbarHeaderNav")
+    .verify.elementPresent("#mainLayout")
     .verify.elementPresent("#mainPanel")
-    .verify.elementPresent("#emailPage")
     .verify.elementPresent("#navbarFooter")
     .verify.elementPresent("#navbarFooterNav")
 

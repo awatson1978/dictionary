@@ -1,5 +1,7 @@
 **dictionary** is a Meteor site that contains sample CRUD applets, using the dataset-* meteorite packages.
 
+![travis-build](https://travis-ci.org/awatson1978/dictionary.svg?branch=master)  
+
 ------------------------
 ### Installation
 
