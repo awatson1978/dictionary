@@ -1,13 +1,14 @@
 <template name="mainLayout">
+  <div id="mainLayout">
+      {{> navbarHeader }}
+      <main id="mainPanel" class="fullheight padded">
+        {{> yield }}
+        {{> aboutPanel }}
+      </main>
+      {{> navbarFooter }}
 
-  {{> navbarHeader }}
-  <main id="mainPanel" class="fullheight padded">
-    {{> yield }}
-    {{> aboutPanel }}
-  </main>
-  {{> navbarFooter }}
-
-  <div class="hidden resize-trigger">resized: {{resized}}</div>
+      <div class="hidden resize-trigger">resized: {{resized}}</div>
+  </div>
 </template>
 
 
