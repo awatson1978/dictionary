@@ -1,5 +1,5 @@
 
-Template.dictionaryDatasetTemplate.events({
+Template.dictionaryPage.events({
    'click .about-the-author-button':function(){
        window.location.href = "https://coderwall.com/awatson1978";
    },

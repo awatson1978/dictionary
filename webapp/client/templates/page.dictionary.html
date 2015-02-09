@@ -1,5 +1,5 @@
-<template name="dictionaryDatasetTemplate">
-    <div id="dictionaryDatasetPage" class="page">
+<template name="dictionaryPage">
+    <div id="dictionaryPage" class="page">
         <div class="container doesnt-overlap-header">
             {{> dictionaryIndexTemplate }}
 
@@ -25,7 +25,7 @@
 <template name="dictionaryIndexTemplate">
         <div class="panel panel-info">
             <div class="panel-heading">
-                <input id="dictionarySearchInput" type="text" placeholder="Filter..." value="life"></input>
+                <input id="dictionarySearchInput" type="text" placeholder="Filter..." value="life" />
             </div>
 
             {{#if editingWord }}
@@ -67,7 +67,7 @@
             {{#with word}}
                 <div class="whitepaper dictionary-form">
                     <div class="col col-lg-3">
-                        <input id="dictionaryWordInput" type="text" placeholder="spelling..." value="{{Word}}" {{word_enabled}}></input>
+                        <input id="dictionaryWordInput" type="text" placeholder="spelling..." value="{{Word}}" {{word_enabled}} />
                         <label class="smallgray" for="dictionaryWordInput">Word</label>
                     </div>
                     <div class="col col-lg-9">

@@ -1,16 +1,16 @@
 <template name="appContainerTemplate">
-    {{> navbarHeaderTemplate }}
+    {{> navbarHeader }}
 
     <div id="appLayoutPanel" class="fullheight padded">
         {{#isolate}}
             {{renderPage}}
         {{/isolate}}
     </div>
-    {{> navbarFooterTemplate }}
+    {{> navbarFooter }}
     <div class="hidden resize-trigger">resized: {{resized}}</div>
 </template>
 
-<template name="navbarHeaderTemplate">
+<template name="navbarHeader">
 
     <div class="navbar navbar-inverse navbar-fixed-top bs-docs-nav">
         <div class="container">
@@ -22,7 +22,7 @@
     </div>
 </template>
 
-<template name="navbarFooterTemplate">
+<template name="navbarFooter">
     <div class="navbar navbar-inverse navbar-fixed-bottom">
         <div class="centered container">
             {{#if isVisible }}

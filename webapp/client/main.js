@@ -14,23 +14,23 @@ Session.setDefault('currentDataset', false);
 Meteor.Router.add({
     '/': function(){
         Session.set('currentDataset', 'dictionary');
-        return 'dictionaryDatasetTemplate';
+        return 'dictionaryPage';
     },
 //    '/customers': function(){
 //        Session.set('currentDataset', 'customers');
-//        return 'customersDatasetPage';
+//        return 'customersPage';
 //    },
 //    '/dowjones': function(){
 //        Session.set('currentDataset', 'dowjones');
-//        return 'dowjonesDatasetTemplate';
+//        return 'dowjonesPage';
 //    },
 //    '/wordlist': function(){
 //        Session.set('currentDataset', 'wordlist');
-//        return 'wordlistDatasetTemplate';
+//        return 'wordlistPage';
 //    },
 //    '/dictionary': function(){
 //        Session.set('currentDataset', 'dictionary');
-//        return 'dictionaryDatasetTemplate';
+//        return 'dictionaryPage';
 //    },
 
 //    '/dowjones': function() {
